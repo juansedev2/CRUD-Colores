@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.formulario{
+    margin: 680px auto;
+    margin-top: 50px;
+    border: 2px solid rgb(67, 76, 84);
+    max-width: 400px;
+    background-color: rgb(157, 168, 177);
+}
+.formulario > form{
+    padding: 30px;
+    width: 50%;
+}
+.formulario > h1{
+    margin-left: 20px;
+    padding: 10px;
+}
+.seccionColor > input{
+    padding-right: 30px;
+    display: block;
+}
+.seccionDescripcion > label{
+    margin-top: 10px;
+}
+.seccionDescripcion > textarea {
+    display: block;
+}
+.botonEnvio{
+    margin-top: 20px;
+}
+.xd{
+    display: inline;
+}
